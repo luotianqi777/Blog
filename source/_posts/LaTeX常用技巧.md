@@ -123,7 +123,7 @@ tags:
 ```
 
 效果如下
-![SEIRD模型流程图](/images/LaTeX/SEIRD.png)
+![SEIRD模型流程图](/images/LaTeX/SEIRD.jpg)
 
 ## 设置章节格式
 
