@@ -2,7 +2,6 @@
 title: Hexo 搭建个人博客
 date: 2020-04-10 16:18:29
 tags:
-  - Linux
   - Hexo
 ---
 
