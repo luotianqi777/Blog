@@ -30,6 +30,10 @@ big_file_name 为要移除的文件
 
 `git gc --aggressive --prune=now`
 
+## 取消跟踪某个文件
+
+`git rm --cached filename`
+
 ## 提交到远程
 
 `git push origin master --force`
