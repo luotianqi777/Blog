@@ -36,3 +36,4 @@ Linux 系统并没有自带，
 ### 下载
 
 [Monaco 下载](/download/Monaco.zip)
+[Monaco Nerd Font 下载](/download/Monaco Nerd Font.zip)
