@@ -5,6 +5,7 @@ push: generate
 generate:
 	hexo generate
 install:
-	npm install hexo-cli --save
+	npm install -g hexo-cli
 	npm install hexo-server --save
 	npm install hexo-deployer-git --save
+	git clone git@github.com:theme-next/hexo-theme-next.git themes/next
